@@ -24,7 +24,7 @@ This project uses OpenCV and MediaPipe to track the pose in a video stream.
 ## Features
 
 * Tracks the pose in a video stream.
-* Detects the 32 pose landmarks.
+* Detects 32 pose landmarks.
 * Can be used to control virtual objects or interact with a computer.
 
 ## License
